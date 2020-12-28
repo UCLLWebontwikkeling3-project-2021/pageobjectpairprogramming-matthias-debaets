@@ -1,3 +1,3 @@
 Deze repo heeft testclasses voor volgende userstory:
 
-Logout
+STORY 04 Logout
